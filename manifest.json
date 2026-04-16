@@ -1,1 +1,1 @@
-{"version": "1.1.0", "release_notes": "Added managed OTA updates, human-friendly orientation labels, fixed calibration persistence"}
+{"version": "1.2.0", "release_notes": "Rebrand model to SmartVan.io, switch to web_server_base"}
