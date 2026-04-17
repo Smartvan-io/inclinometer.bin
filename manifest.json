@@ -1,1 +1,1 @@
-{"version": "1.2.4", "release_notes": "Manual HA UI OTA test"}
+{"version": "1.2.6", "release_notes": "OTA progress reporting — downloading/flashing/done/error events"}
