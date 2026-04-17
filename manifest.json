@@ -1,1 +1,1 @@
-{"version": "1.2.10-beta", "release_notes": "HA UI OTA progress bar test (requires reloaded integration)"}
+{"version": "1.2.11-beta", "release_notes": "Progress bar test — requires integration 2.1.7 + HA restart"}
