@@ -1,1 +1,1 @@
-{"version": "1.2.1", "release_notes": "Persist calibration values across reboots (flash_write_interval: 30s)"}
+{"version": "1.2.2", "release_notes": "Inclinometer sensor enabled by default on fresh boot"}
