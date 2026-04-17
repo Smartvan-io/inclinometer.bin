@@ -1,1 +1,1 @@
-{"version": "1.2.11-beta", "release_notes": "Progress bar test — requires integration 2.1.7 + HA restart"}
+{"version": "1.2.12-beta", "release_notes": "Fix progress publish — payload was truncated to 1 byte due to overload resolution"}
