@@ -1,1 +1,1 @@
-{"version": "1.2.12-beta", "release_notes": "Fix progress publish — payload was truncated to 1 byte due to overload resolution"}
+{"version": "1.2.13-beta", "release_notes": "End-to-end progress bar test — device now has fixed publish code"}
